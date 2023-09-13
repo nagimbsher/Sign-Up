@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sign-Up/static/css/main.913716cb.css",
+    "main.js": "/Sign-Up/static/js/main.a3015109.js",
+    "index.html": "/Sign-Up/index.html",
+    "main.913716cb.css.map": "/Sign-Up/static/css/main.913716cb.css.map",
+    "main.a3015109.js.map": "/Sign-Up/static/js/main.a3015109.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.913716cb.css",
+    "static/js/main.a3015109.js"
+  ]
+}
